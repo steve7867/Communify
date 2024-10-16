@@ -23,15 +23,15 @@
 
 ## 🖼️ Application UI
 
-![Application UI](https://github.com/steve7867/Communify/assets/115217247/76e5efdc-4106-4fc5-b820-c687abab72bd)
+![Application UI](https://github.com/user-attachments/assets/8677fa61-ad06-42d4-9935-0ac33d642ed6)
 
 ## 📈 ERD
 
-![ERD](https://github.com/user-attachments/assets/0ba02fc1-194d-4959-bb21-b6ada24b2308)
+![ERD](https://github.com/user-attachments/assets/999c1367-aca2-468d-bb86-44c0d12e629e)
 
 ## 🏛️ 프로젝트 구조도
 
-![프로젝트 구조](https://github.com/user-attachments/assets/75f1179b-4a96-4738-b8b0-33b9f11dc5d8)
+![프로젝트 구조](https://github.com/user-attachments/assets/b2198273-8dec-45ed-9ab4-1de19aac7641)
 
 ## ⚙️ 주요 기능
 
