@@ -21,6 +21,9 @@
   - Spring AOP을 사용해 중복되는 로그인 체크 로직 구현
   - Nginx Reversed-Proxy를 이용한 로드밸런싱
 
+## 🤔 TroubleShooting & 기술적 고민
+[🔗링크](https://github.com/steve7867/Communify/wiki/%F0%9F%A4%94-TroubleShooting-&-%EA%B8%B0%EC%88%A0%EC%A0%81-%EA%B3%A0%EB%AF%BC)
+
 ## 🖼️ Application UI
 
 ![Application UI](https://github.com/user-attachments/assets/8677fa61-ad06-42d4-9935-0ac33d642ed6)
